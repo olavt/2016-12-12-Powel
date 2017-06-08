@@ -1,21 +1,6 @@
----
-layout: post
-title:  "Electricity Spot Price Forecasting with Powel"
-author: "Olav Tollefsen"
-author-link: "https://www.linkedin.com/in/olavtollefsen/"
-#author-image: "./images/authors/photo.jpg"
-date:   2016-12-12
-categories: [Cognitive Services]
-color: "blue"
-#image: "./images/imagename.png" #should be ~350px tall
-excerpt: This article is about how to take advantage of Microsoft Cortana Intelligence Suite to build advanced machine learning algorithms to improve forecasting and planning for electricity companies.
-language: [English]
-verticals: The vertical markets this article has focus on (e.g.: [Energy])
-geolocation: The geolocation of the article
-permalink: /<page-title>.html Use this section to set a custom URL for your page. The value set in this setting will be added to the base URL. For example if you set "/mycustomurl.html", your URL will be "https://microsoft.github.io/techcasestudies/mycustomurl.html"
----
-
 # Electricity Spot Price Forecasting with Powel
+
+### Author: [Olav Tollefsen](https://www.linkedin.com/in/olavtollefsen/), Microsoft Norway
 
 Optimization of production and distribution across seasons and multiple years is crucial to maximize resource value in electrical production companies.
 
